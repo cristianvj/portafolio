@@ -1,3 +1,15 @@
+@font-face {
+  font-family: 'brown';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/Brown\ Pen.otf');
+}
+.brand-logo{
+  font-family: brown;
+  padding-top: 10px!important;
+  padding-left: 20px!important;
+  font-size: 80px!important;
+}
 .parallax-container {
       height: 500px;
     }
@@ -6,8 +18,5 @@
     }
 .padding-10{
 	margin: 20px;
-}
-.logo-cristian {
-  padding: 3px!important;
 }
  
