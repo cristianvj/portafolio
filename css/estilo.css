@@ -4,11 +4,20 @@
   font-weight: normal;
   src: url('../fonts/Brown\ Pen.otf');
 }
+
+body{
+  background-color: #ebebeb;
+}
+
 .brand-logo{
   font-family: brown;
   padding-top: 10px!important;
   padding-left: 20px!important;
   font-size: 80px!important;
+}
+.titulo-seccion{
+  font-family: brown;
+  font-size: 90px;
 }
 .parallax-container {
       height: 500px;
